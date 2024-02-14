@@ -108,5 +108,17 @@ cloud data flow
         - dataflow
 
 
-- chapter 19
-- Dataprep
+
+19] Dataprep
+---
+- a tool for
+    - exploring
+    - cleaning
+    - preparing data
+
+- visually define transforms
+- suggest transformations
+- export to Cloud Dataflow
+
+- (partner) service from Trifacta
+
