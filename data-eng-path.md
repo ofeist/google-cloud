@@ -28,9 +28,6 @@ https://www.pluralsight.com/cloud-guru/courses/google-certified-associate-cloud-
 
 
 
-
-
-
 Professional Data Engineer 
 https://cloud.google.com/learn/certification/data-engineer
 
@@ -39,3 +36,6 @@ https://cloud.google.com/learn/certification/data-engineer
 A Tour of Google Cloud Hands-on Labs
 https://www.cloudskillsboost.google/focuses/2794?parent=catalog&path=16
 
+
+- tips
+    - start watching Google Next videos 
