@@ -25,7 +25,7 @@ data storage intro
         - not relational
             - Mobile SDK -> Cloud Firestore
             - NoSQL      -> Cloud Firestore
-            - Cloud Firestore is a new ver of Coud Firestore
+            - Cloud Firestore is a new ver of Coud Datastore
     - Cloud Memorystore
         -> Cloud Redis serv
             - key-value
@@ -49,7 +49,6 @@ working with data
 
 data pipelines
 ---
-
 - source
     - application
     - storage event
@@ -60,6 +59,33 @@ data pipelines
     - bigquery (data accumulation)
 - analytics
     - data studio (visualisation)
+
+
+cloud storage transfer service
+---
+- automates the data transefer source->sink
+
+- sink
+    - Cloud Storage bucket (always)
+- sources
+    - AWS S3
+    - http://
+    - oteher google cloud storage buckets
+
+- BigQuery data transfer service
+    - sink
+        - BigQuery
+    - sources
+        - google marketing platform
+            - ads,youtube,..
+
+
+cloud firestore
+---
+- replaced the older Coud Datastore
+- pandan to aws dynamo db
+- working with data (python) explained @ ~5:00
+
 
 
 
