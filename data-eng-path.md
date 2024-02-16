@@ -27,10 +27,8 @@ https://www.pluralsight.com/cloud-guru/courses/google-certified-associate-cloud-
 3] Professional Machine Learning Engineer. 
 
 
-
 Professional Data Engineer 
 https://cloud.google.com/learn/certification/data-engineer
-
 
 
 A Tour of Google Cloud Hands-on Labs
